@@ -1,0 +1,2 @@
+# Land-Use-Classification-using-Google-Earth-Engine
+Google Earth Engine for filtering and displaying least cloudy Landsat 8 Images. RandomForest and CART are used for classification. MODIS IGBP, a global land cover classification system in MCD12Q1 is used. Mumbai, Delhi and Chennai’s Land were classified for Water, Forest, shrubs and Grass, Wetlands, Croplands, Urban Areas, Natural Vegetation, Snow and Ice, Barren and Tundra.
