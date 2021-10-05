@@ -1,0 +1,53 @@
+td
+{
+  height: 20px;
+  width: 100px;
+}
+#wtr
+{
+  background-color: #aec3d4;
+}
+
+#f1{
+    background-color: #225129 ;
+}
+
+#f2{
+    background-color: #369b47 ;
+}
+
+#s1{
+    background-color: #c3aa69;
+}
+
+#s2{
+    background-color: #b76031;
+}
+
+#wet{
+    background-color: #111149;
+}
+
+#crop{
+    background-color: #cdb33b;
+}
+
+#urban{
+    background-color: #cc0013;
+}
+
+#cropmos{
+    background-color: #33280d;
+}
+
+#snow{
+    background-color: #d7cdcc;
+}
+
+#barren{
+    background-color: #f7e084;
+}
+
+#tundra{
+    background-color: #6f6f6f;
+}
